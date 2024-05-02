@@ -8,5 +8,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smirking%20Face.png" alt="Smirking Face" width="25" height="25" />&nbsp;&nbsp; Double click the bat file format version of the video you want to download, paste the link, and hit ENTER!. <br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" />&nbsp;&nbsp; The video will be downloaded, converted to the format you've chosen, and saved to the "DOWNLOADED" folder. <br />
 
-
+> **Special thanks to:**
+> Everyone who is working hard to make [YT-DLP](https://github.com/yt-dlp/yt-dlp) possible!<br />
 
