@@ -1,7 +1,5 @@
 ![](https://i.imgur.com/NSHbkAL.png)
 
-<br />
-
 > **Special thanks to:**<br />
 > Everyone who is working hard to make [YT-DLP](https://github.com/yt-dlp/yt-dlp) possible!<br />
 
