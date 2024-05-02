@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />&nbsp;&nbsp; Now, there is no need for using command lines for downloading online videos using YT-DLP. <br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smirking%20Face.png" alt="Smirking Face" width="25" height="25" />&nbsp;&nbsp; You just need to double click the format version of the video you want to download, and past the link. <br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" />&nbsp;&nbsp; Then, the video will be downloaded, converted to the format you've chosen and saved to the "DOWNLOADED" folder. <br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" />&nbsp;&nbsp; Then, the video will be downloaded, converted to the format you've chosen, and saved to the "DOWNLOADED" folder. <br />
 
 
 
